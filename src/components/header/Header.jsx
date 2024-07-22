@@ -12,7 +12,7 @@ const Header = () => {
                 <div className={Toggle ? "nav__menu show-menu" : "nav__menu"}>
                     <ul className="nav__list grid">
                         <li className="nav__item">
-                            <a href="home" onClick={() => setActiveNav('#home')}
+                            <a href="#home" onClick={() => setActiveNav('#home')}
                             className={activeNav === '#home' ? 'nav__link active-link' : 'nav__link' }>
                                 <i className="uil uil-estate nav__icon"></i> Home
                             </a>
