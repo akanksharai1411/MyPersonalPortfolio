@@ -32,8 +32,7 @@ export const projectsData = [
         id:4,
         image: Work4,
         title: 'JohnDeere X SWE Collaboration',
-        category: 'App Development',
-        link: 'https://docs.google.com/presentation/d/1yOaJMGYIbrCnB-VhqgXz5tvGfSkdnDZ4C6zsedqBtig/edit?usp=sharing'
+        category: 'App Development'
     },
     {
         id:5, 
