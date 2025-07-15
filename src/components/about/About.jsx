@@ -20,16 +20,21 @@ const About = () => {
             <div className="about__data">
                 <Info />
 
-                <p className="about__description"> Hey! I am Akanksha, I am passionate about exploring new technologies, taking on challenging projects and contributing to the community through tech. 
+                <p className="about__description">
+                Hey! I’m Akanksha — not your ordinary developer. I love to build things — whether it's something I can proudly show off, or something that makes a real difference in the world. Every time I sit down to code, my goal is simple: to create something meaningful.  
 
-                <br></br>
-                <br></br>
-                As a women in tech, I am seeking opportunities to contribute to cutting-edge AI initiatives, collaborate with talented and diverse teams, and make a meaningful impact on the future of technology. My interests and experiences specifically lie in Software Development, Cybersecurity, AI development and Data Analysis. 
-                <br></br>
-                <br></br>
+                <br /><br />
 
-                Fun Fact: I have lived in 4 different countries in the past decade! 
-                </p>
+                My current interests lie in Software Development, Cybersecurity, AI, and Data Analysis. I'm a dreamer at heart — always curious, always learning, and always looking for the next challenge.
+
+                <br /><br />
+
+                As a woman in tech, I’m passionate about contributing to cutting-edge AI initiatives, working with diverse and talented teams, and helping shape the future of technology in ways that matter.
+
+                <br /><br />
+
+                <strong>Fun fact:</strong> I’ve lived in four different countries over the past decade — and I really love chess!
+              </p>
                 <a download='' href={CV} className="button button--flex">Resume
                 <svg
                 class="button__icon"
