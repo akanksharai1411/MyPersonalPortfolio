@@ -15,6 +15,54 @@ const Experiences = () => {
 
             <div className="experiences__sections">
                 <div className="experiences__content experiences__content-active">
+                    
+                <div className="experiences__data">
+                        <div>
+                            <h3 className="experiences__title">Software Security Intern</h3>
+                            <span className="experiences__subtitle">MongoDB</span>
+                            <br></br>
+                            <span className="experiences__location"> New York, NY </span>
+                            <div className="experiences__calendar">
+                                <i className="uil uil-calendar-alt"></i> June 2025 - Aug 2025
+                            </div>
+
+                        </div>
+
+                        <div>
+                            <span className="experiences__rounder"></span>
+                            <span className="experiences__line"></span>
+                        </div>
+                </div>
+                
+                
+                
+                
+                
+                
+                <div className="experiences__data">
+                        <div></div>
+
+                        <div>
+                            <span className="experiences__rounder"></span>
+                            <span className="experiences__line"></span>
+                        </div>
+
+
+                        <div>
+                            <h3 className="experiences__title">Teaching Assistant</h3>
+                            <span className="experiences__subtitle">University of Michigan</span>
+                            <span className="experiences__location"> Ann Arbor, MI </span>
+                            <div className="experiences__calendar">
+                                <i className="uil uil-calendar-alt"></i> Jan 2025 – May 2025
+                            </div>
+
+                        </div>
+
+                    </div>
+                    
+                    
+                    
+                    
                     <div className="experiences__data">
                         <div>
                             <h3 className="experiences__title">Cybersecurity Software Engineering Intern</h3>
